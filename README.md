@@ -10,6 +10,9 @@ This Power BI report provides end-to-end business analytics across four core dom
 - Excel
 
 ## 📈 Key Insights
+- 🌍 North America generated the highest orders, while Europe showed higher return rates
+- 🔄 Return rate was highest in the Accessories category, suggesting quality or expectation gaps
+- 🎯 Actual revenue achieved 92% of target, indicating slight underperformance
 
 ## 📂 Dataset
 - Source: Sample Superstore Dataset(https://drive.google.com/drive/folders/14N3j8MnAiHNnfyS1Yq3JDS97T_6EIhUB?usp=drive_link)
@@ -19,8 +22,6 @@ This Power BI report provides end-to-end business analytics across four core dom
 <img width="4150" height="2400" alt="BMCS PROJECT_page-0002" src="https://github.com/user-attachments/assets/e894cd32-f4e1-4585-ba09-55d72ced4ddd" />
 <img width="4150" height="2400" alt="BMCS PROJECT_page-0003" src="https://github.com/user-attachments/assets/f22a968b-8108-4b33-83db-0bda7f26c064" />
 <img width="4150" height="2400" alt="BMCS PROJECT_page-0004" src="https://github.com/user-attachments/assets/7cfb1ed6-abb0-4f90-8aae-0a6d09e94ac7" />
-
-
 
 ## 🚀 How to Use
 - Download .pbix file
